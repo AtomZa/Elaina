@@ -10,8 +10,8 @@ Elaina's vision is to make everyone dream come true. Elaina's mission is to help
 <h2> Repository Plan </h2>
 
 0. lumina (optical fiber)
-1. electrica (general electrical eng)
-2. mechanica (general mechanical eng)
+1. electrica (intro electrical eng)
+2. mechanica (intro mechanical eng)
 3. amplifica (operational amplifier)
 4. robotica (robotic dynamics)
 5. analogica (analog communication)
