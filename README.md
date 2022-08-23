@@ -14,6 +14,6 @@ Elaina vision is to make everybody dream come true. Elaina mission is to help go
 2. mechanica (general mechanical eng)
 3. amplifica (operational amplifier)
 4. robotica (robotic dynamics)
-5. analogica (analogy communication)
+5. analogica (analog communication)
 6. digita (digital communication)
 7. airis (flight mechanics)
