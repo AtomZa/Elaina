@@ -1,7 +1,7 @@
 # Elaina
 <h2> Pain Point </h2>
 
-We all have dream to create something. However, designing deep technology devices required intensive engineering background. This fact end many people ideas without them ever pursuing their goal.
+We all have dream to create something. However, designing fantasy things required intensive engineering background. This fact end many people ideas without them ever pursuing their goal.
 
 <h2> Business Solution </h2>
 
