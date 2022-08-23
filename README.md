@@ -1,7 +1,7 @@
 # Elaina
 Pain Point
 
-We all have a dream to build something. However, designing deep technology devices required intensive engineering background. This fact limit people ideas to become true.
+We all have a dream to build something. However, designing deep technology devices required intensive engineering background. This fact end people ideas without them pursuing their goal.
 
 Repository Plan
 
