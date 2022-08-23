@@ -5,7 +5,7 @@ We all have dream to create something. However, designing fantasy things require
 
 <h2> Business Solution </h2>
 
-Elaina vision is to make everybody dream come true. Elaina mission is to help governing engineering design with a simplify yet in deep level interface. 
+Elaina vision is to make everybody dream come true. Elaina mission is to help governing engineering design with a simplify yet in deep level interface like a magic.
 
 <h2> Repository Plan </h2>
 
