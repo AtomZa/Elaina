@@ -1,4 +1,7 @@
 # Elaina
+Pain Point
+
+We all have a dream to build something. However, designing deep technology devices required intensive engineering background. This fact have blocked many of idea to be possible.
 
 Repository Plan
 
