@@ -5,7 +5,7 @@ We all have a dream to build something. However, designing deep technology devic
 
 Business Solution
 
-Elaina can governing your design into visualization with a simplify interface.
+Elaina vision is to make everyone's dream become true. Elaina mission is to help governing engineering design with a simplify yet deep enough interface. 
 
 Repository Plan
 
