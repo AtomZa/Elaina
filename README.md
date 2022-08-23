@@ -11,7 +11,7 @@ Elaina's vision is to make everyone dream come true. Elaina's mission is to help
 
 0. lumina (optical fiber)
 1. electrica (electrical eng)
-2. mechanica (mechanical eng)
+2. mechanica (mechanical eng) \n
 2.a. mechanica_str_series (strength of materials)
 3. amplifica (operational amplifier)
 4. robotica (robotic dynamics)
